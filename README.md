@@ -1,0 +1,2 @@
+# hilat
+HILARIUM TOKEN ERC20 'HILAT'
